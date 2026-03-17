@@ -23,10 +23,6 @@ class Main {
         
         if(starting.equalsIgnoreCase("start")) {
             System.out.println(" \n ==> If you want to see hollow diamond pattern then type '1' and for solid diamond type '2' and so on as serial number mentioned in the list of the respective patterns.\n");
-            System.out.println(" Here are the list of patterns : \n");
-            listofpatterns();
-            System.out.println(" ==========================================================================");
-            System.out.println(" ==========================================================================\n");
             }
         }
     }
